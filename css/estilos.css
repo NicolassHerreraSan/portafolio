@@ -1,0 +1,29 @@
+:root{
+    --blanco: #ffffff;
+    --black: #000000;
+    --red: #ff0000;
+    --fosfo: #aeff00;
+    --armygreen: #3a7e34;
+    --morado: #6926ba;
+
+}
+
+
+
+html {
+    font-size: 62.5%;
+}
+body{
+    font-size: 3rem; 
+    font-family: 'Antonio', sans-serif;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 3.8rem;
+    color:var(--armygreen)
+}
+.titulo span{
+    font-size: 2rem;
+    color:var(--fosfo)
+}
